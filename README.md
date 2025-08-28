@@ -21,7 +21,7 @@ I am passionate about data collection, analysis, and telling compelling data sto
 </p>
 
 
----
+
 
 ## 🚀 Projects
 
@@ -97,7 +97,6 @@ I am passionate about data collection, analysis, and telling compelling data sto
 📍 Bhadravathi, Karnataka  
 
 
----
 
 *Let’s connect and collaborate on exciting tech projects!*
 
