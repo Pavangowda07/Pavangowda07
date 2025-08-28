@@ -58,6 +58,14 @@ I am a guy passionate about data collection, analysis, and telling compelling da
 
 ---
 
+## 🤝 Volunteering
+
+- 👩‍🏫 ChatGPT Workshop for PU students  
+- 📚 Infosys Springboard Ambassador – 250+ students enrolled  
+- 🔍 Splunk Security Seminar for juniors
+
+---
+
 ## 💻 Technical Activities & Leadership  
 
 - Participated in **SAP Inside Track 2025**, Bangalore  
