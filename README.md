@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm A Pavan Gowda!
 
 ## 💡 Summary  
-## 💡 Summary  
 <span style="font-size:19px;">
 I am passionate about data collection, analysis, and telling compelling data stories. I also love creating useful web projects that solve real-world problems and make an impact.
 </span>
