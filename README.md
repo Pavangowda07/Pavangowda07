@@ -1,7 +1,11 @@
 # 👋 Hi there, I'm A Pavan Gowda!
 
 ## 💡 Summary  
-I am a guy passionate about data collection, analysis, and telling compelling data stories. I also love creating useful web projects that solve real-world problems and make an impact.
+## 💡 Summary  
+<span style="font-size:19px;">
+I am passionate about data collection, analysis, and telling compelling data stories. I also love creating useful web projects that solve real-world problems and make an impact.
+</span>
+
 
 ---
 
@@ -16,6 +20,7 @@ I am a guy passionate about data collection, analysis, and telling compelling da
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
   <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
+
 
 ---
 
@@ -39,12 +44,14 @@ I am a guy passionate about data collection, analysis, and telling compelling da
 - Web app to manage research activities, grants, and doctorate registrations  
 - Built with PHP backend, MySQL database, and JavaScript frontend  
 
+
 ---
 
 ## 🎓 Education
 
 🎓 B.E. in Computer Science - PES Institute of Technology and Management (2022–2026)  
 🏅 7.62 CGPA | 83% (PU) | 80% (SSLC)
+
 
 ---
 
@@ -56,6 +63,7 @@ I am a guy passionate about data collection, analysis, and telling compelling da
 - Organized and volunteered for technical events and hackathons  
 - Participated in a 36-hour FOSS Hackathon developing the E-Sports Hub application  
 
+
 ---
 
 ## 🤝 Volunteering
@@ -64,12 +72,14 @@ I am a guy passionate about data collection, analysis, and telling compelling da
 - 📚 Infosys Springboard Ambassador – 250+ students enrolled  
 - 🔍 Splunk Security Seminar for juniors
 
+
 ---
 
 ## 💻 Technical Activities & Leadership  
 
 - Participated in **SAP Inside Track 2025**, Bangalore  
 - Explored SAP BTP, Generative AI, and enterprise-grade AI tools and architectures  
+
 
 ---
 
@@ -79,6 +89,7 @@ I am a guy passionate about data collection, analysis, and telling compelling da
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
+
 ---
 
 ## 📬 Contact Me
@@ -86,9 +97,11 @@ I am a guy passionate about data collection, analysis, and telling compelling da
 📧 pavangowda1034@gmail.com  
 📍 Bhadravathi, Karnataka  
 
+
 ---
 
 *Let’s connect and collaborate on exciting tech projects!*
+
 
 ---
 
@@ -102,3 +115,4 @@ I am a guy passionate about data collection, analysis, and telling compelling da
   </span>
 </p>
 
+---
