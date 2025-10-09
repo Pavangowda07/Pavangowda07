@@ -82,20 +82,12 @@ I am passionate about data collection, analysis, and telling compelling data sto
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-
----
 
 ## 📬 Contact Me
 
-📧 pavangowda1034@gmail.com  
-📍 Bhadravathi, Karnataka  
-
+ Mail ID 📧: pavangowda1034@gmail.com  
+ View My Portfolio ➡️ [https://your-portfolio-website.com](https://portfolio-plum-six-96.vercel.app/] <br>
+📍 Bhadravathi, Karnataka
 
 
 *Let’s connect and collaborate on exciting tech projects!*
