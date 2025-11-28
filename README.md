@@ -68,10 +68,8 @@ I am a person who loves to uncover stories in data and use machine learning to f
 
 ## 🤝 Volunteering
 
-- 👩‍🏫 ChatGPT Workshop for PU students  
-- 📚 Infosys Springboard Ambassador – 250+ students enrolled  
-- 🔍 Splunk Security Seminar for juniors
-
+- 👩‍🏫 AI and LLM's Workshop for PU students.
+- 📚 Infosys Springboard Ambassador – 250+ students enrolled.  
 
 ---
 
