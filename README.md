@@ -56,11 +56,12 @@ I am a person who loves to uncover stories in data and use machine learning to f
 
 ## 🏅 Certifications & Achievements
 
+- Completed CS50's Introduction to Python Programming Course by Harvard.
 - BIT’S N BYTES 2.0 Hackathon  
-- Internpe AI/ML Programming Course Completion  
-- Infosys Springboard: Introduction to Artificial Intelligence  
-- Organized and volunteered for technical events and hackathons  
-- Participated in a 36-hour FOSS Hackathon developing the E-Sports Hub application  
+- Internpe AI/ML Programming Course Completion.
+- Completed Simplilearn's Introduction to MS Excel. 
+- Infosys Springboard: Introduction to Artificial Intelligence.
+- Participated in a 36-hour FOSS Hackathon developing the E-Sports Hub application.
 
 
 ---
