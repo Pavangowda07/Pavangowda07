@@ -86,7 +86,7 @@ I am a person who loves to uncover stories in data and use machine learning to f
 ## 📬 Contact Me
 
  Mail ID 📧: pavangowda1034@gmail.com  
- View My Portfolio ➡️ (https://portfolio-plum-six-96.vercel.app/] <br>
+ View My Portfolio ➡️ (https://portfolio-plum-six-96.vercel.app) <br>
 📍 Bhadravathi, Karnataka
 
 
