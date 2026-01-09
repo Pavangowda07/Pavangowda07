@@ -25,28 +25,6 @@ I am a person who loves to uncover stories in data and use machine learning to f
 
 
 
-## 🚀 Projects
-
-### E-Sports Hub Web Application  
-- Full-stack web app for discovering and booking global esports tournaments  
-- React.js frontend and Node.js backend  
-- Features user registration, event sign-up, live event watching, and curated highlight videos  
-
-### OpenPark – Smart Parking Slot Booking System  
-- Open-source full-stack parking management system  
-- Real-time booking, check-in, and auto-reset for unconfirmed slots  
-- React frontend with Apple-inspired UI design and smooth animations  
-
-### Cloud Computing SaaS Security – Blockchain-Backed Web App (Ongoing Research)  
-- Designing a secure SaaS application for file management with blockchain-backed tamperproof auditing  
-- Researching real-time user activity monitoring and suspicious behavior detection  
-
-### Research Centre Management System  
-- Web app to manage research activities, grants, and doctorate registrations  
-- Built with PHP backend, MySQL database, and JavaScript frontend  
-
-
----
 
 ## 🎓 Education
 
