@@ -1,6 +1,8 @@
-# 👋 Hi there, I'm A Pavan Gowda!
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center">I'm Pavan Gowda 😀</h1>
+<h4 align="center">I'm a Data Analyst | AI&ML enthusiastic </h4>
 
-## 💡 Summary  
+
 <span style="font-size:19px;">
 I am a person who loves to uncover stories in data and use machine learning to find deeper insights. I'm passionate about turning these insights into tangible, automated solutions that solve real-world problems from start to finish.
 
