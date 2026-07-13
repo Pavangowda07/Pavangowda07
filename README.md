@@ -14,10 +14,7 @@ I am a person who loves to uncover stories in data and use machine learning to f
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
   <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
@@ -29,8 +26,6 @@ I am a person who loves to uncover stories in data and use machine learning to f
 ## 🎓 Education
 
 🎓 B.E. in Computer Science - PES Institute of Technology and Management (2022–2026)  
-🏅 7.62 CGPA | 83% (PU) | 80% (SSLC)
-
 
 ---
 
@@ -41,7 +36,6 @@ I am a person who loves to uncover stories in data and use machine learning to f
 - Internpe AI/ML Programming Course Completion.
 - Completed Simplilearn's Introduction to MS Excel. 
 - Infosys Springboard: Introduction to Artificial Intelligence.
-- Participated in a 36-hour FOSS Hackathon developing the E-Sports Hub application.
 
 
 ---
