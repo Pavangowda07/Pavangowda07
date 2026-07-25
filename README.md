@@ -91,9 +91,6 @@ PES Institute of Technology and Management, Shivamogga
 
 📧 **Email:** **pavangowda1034@gmail.com**
 
-🌐 **Portfolio:**  
-https://portfolio-plum-six-96.vercel.app
-
 💼 **LinkedIn:**  
 https://www.linkedin.com/in/pavangowda07/
 
